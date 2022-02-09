@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node lessons/index.js",
+    "start": "node lessons/les-2/timer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,6 +20,7 @@
   "homepage": "https://github.com/VinogradovSP/node#readme",
   "dependencies": {
     "@types/node": "^17.0.14",
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "moment-precise-range-plugin": "^1.3.0"
   }
 }
